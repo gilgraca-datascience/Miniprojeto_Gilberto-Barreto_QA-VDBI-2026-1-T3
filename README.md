@@ -21,7 +21,6 @@ Análise Exploratória de Dados aplicada a uma base de Varejo utilizando Python 
 
 - `[MS_07]_Mini_Projeto_Avaliativo.ipynb` – notebook contendo o desenvolvimento completo do projeto.
 - `df_limpo.csv` – base resultante do tratamento dos dados.
-- `df.csv` – base resultante do tratamento sem a eliminação de registros com dados ausentes.
 - `README_Gilberto-Barreto_QA-VDBI-2026-1-T3.md` – documentação completa do projeto.
 
 ---
