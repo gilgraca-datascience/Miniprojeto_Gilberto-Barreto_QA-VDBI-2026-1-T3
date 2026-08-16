@@ -1,7 +1,4 @@
-# Miniprojeto_Gilberto-Barreto_QA-VDBI-2026-1-T3
-Mini-Projeto Avaliativo do curso: Visualização de Dados e Business Intelligence [T3] - Semama 1 Módulo 7 
-
-#Análise Exploratória de Dados de Varejo
+# Mini-Projeto Avaliativo – Análise Exploratória de Dados de Varejo
 
 ## Aluno
 
@@ -63,7 +60,7 @@ As duplicatas foram analisadas e não removidas indiscriminadamente, pois não f
 
 ## 📊 Principais resultados
 
-### Número de filhos dos clientes
+### Estatística de números de filhos dos clientes
 
 | Estatística | Resultado |
 |---|---:|
@@ -75,15 +72,26 @@ As duplicatas foram analisadas e não removidas indiscriminadamente, pois não f
 | Máximo | 4 |
 | Contagem | 830.000 |
 
-### Agrupamento por gênero
+### Agrupamento por gênero para pra saber quem compra mais
 
 | Gênero | Quantidade |
 |---|---:|
 | Feminino (F) | 432.576 |
 | Masculino (M) | 397.424 |
 
-Também foi realizado agrupamento por período para analisar a variação da quantidade de compras ao longo do tempo.
+### Também foi realizado agrupamento por período para analisar a variação da quantidade de compras ao longo do tempo.
+A quantidade de registros de compras varia ao longo do período analisado, precisando de mais atenção quanto às reduções significativas em alguns períodos.
 
+### Agrupamento por categoria pra saber qual vende mais
+
+| Categoria | Quantidade |
+|---|---:|
+| ALIMENTOS | 434767|
+| HIGIENE |155574 |
+| LIMPEZA | 145754|
+| BEBIDAS |43299|
+| PET | 32399|
+| ACESSORIOS |14557|
 ---
 
 ## 💡 Insights
